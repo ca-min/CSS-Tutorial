@@ -1,3 +1,8 @@
 /* 6つのp要素に適用するスタイルを宣言 */
-
+.blue {
+    background-color:blue;
+}
+.color-white {
+    color:white;
+}
 /* 6つのli要素に適用するスタイルを宣言 */
